@@ -4,8 +4,8 @@
 \textbf{Dep. Variable:}    &       Tech       & \textbf{  R-squared:         } &    0.499  \\
 \textbf{Model:}            &       OLS        & \textbf{  Adj. R-squared:    } &    0.496  \\
 \textbf{Method:}           &  Least Squares   & \textbf{  F-statistic:       } &    170.1  \\
-\textbf{Date:}             & Thu, 06 Oct 2022 & \textbf{  Prob (F-statistic):} & 1.56e-76  \\
-\textbf{Time:}             &     14:53:06     & \textbf{  Log-Likelihood:    } &   1227.2  \\
+\textbf{Date:}             & Wed, 12 Oct 2022 & \textbf{  Prob (F-statistic):} & 1.56e-76  \\
+\textbf{Time:}             &     11:14:26     & \textbf{  Log-Likelihood:    } &   1227.2  \\
 \textbf{No. Observations:} &         517      & \textbf{  AIC:               } &   -2446.  \\
 \textbf{Df Residuals:}     &         513      & \textbf{  BIC:               } &   -2429.  \\
 \textbf{Df Model:}         &           3      & \textbf{                     } &           \\
